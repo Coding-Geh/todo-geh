@@ -1,0 +1,41 @@
+{
+    "title": "Todo Geh",
+    "home": {
+        "title": "Tugasku",
+        "empty": "Belum ada tugas. Tambahkan satu!",
+        "add_tooltip": "Tambah Tugas",
+        "delete_confirm": "Hapus tugas ini?",
+        "delete_yes": "Ya",
+        "delete_no": "Tidak",
+        "snack_added": "Tugas ditambahkan!",
+        "snack_updated": "Tugas diperbarui!",
+        "snack_deleted": "Tugas dihapus!",
+        "snack_completed": "Tugas selesai!",
+        "snack_uncompleted": "Tugas ditandai aktif",
+        "footer_rights": "Hak cipta dilindungi"
+    },
+    "settings": {
+        "title": "Pengaturan",
+        "theme": "Tema",
+        "language": "Bahasa",
+        "dark_mode": "Mode Gelap",
+        "light_mode": "Mode Terang"
+    },
+    "todo": {
+        "title_hint": "Apa yang perlu dilakukan?",
+        "save": "Simpan",
+        "cancel": "Batal",
+        "edit": "Ubah Tugas",
+        "new": "Tugas Baru",
+        "priority": {
+            "label": "Prioritas",
+            "low": "Rendah",
+            "medium": "Sedang",
+            "high": "Tinggi"
+        },
+        "date": {
+            "due": "Tenggat",
+            "select": "Pilih Tanggal"
+        }
+    }
+}

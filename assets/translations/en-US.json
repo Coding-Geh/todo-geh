@@ -1,0 +1,41 @@
+{
+  "title": "Todo Geh",
+  "home": {
+    "title": "My Tasks",
+    "empty": "No tasks yet. Add one!",
+    "add_tooltip": "Add Task",
+    "delete_confirm": "Delete this task?",
+    "delete_yes": "Yes",
+    "delete_no": "No",
+    "snack_added": "Task added!",
+    "snack_updated": "Task updated!",
+    "snack_deleted": "Task deleted!",
+    "snack_completed": "Task completed!",
+    "snack_uncompleted": "Task marked as active",
+    "footer_rights": "All rights reserved"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "dark_mode": "Dark Mode",
+    "light_mode": "Light Mode"
+  },
+  "todo": {
+    "title_hint": "What needs to be done?",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit Task",
+    "new": "New Task",
+    "priority": {
+      "label": "Priority",
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "date": {
+      "due": "Due",
+      "select": "Select Date"
+    }
+  }
+}
